@@ -1,5 +1,8 @@
 # MQTT-NP
 
+<img height="640" alt="изображение" src="https://github.com/user-attachments/assets/4d983042-9d6c-406a-b2ae-d4c1fa0913cc" />
+
+
 ## 📋 Overview
 
 MQTT-NP is a cross-platform desktop MQTT client designed for developers and IoT enthusiasts. Built with modern web technologies and Rust, it provides a fast, secure, and user-friendly interface for monitoring and managing MQTT brokers.
