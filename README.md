@@ -98,7 +98,7 @@ A: No, MQTT-NP is a fully offline application. All data stays on your device.
 
 ## 🐛 Bug Reports & Feature Requests
 
-Found a bug or have a feature idea? Please open an issue on [GitHub Issues](https://github.com/yourusername/mqtt-np-tauri/issues).
+Found a bug or have a feature idea? Please open an issue on [GitHub Issues](https://github.com/leruetkins/mqtt-np-tauri/issues).
 
 When reporting a bug, please include:
 - Your operating system and version
