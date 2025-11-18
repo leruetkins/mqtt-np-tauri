@@ -1,6 +1,8 @@
 # MQTT-NP
 
-<img height="640" alt="изображение" src="https://github.com/user-attachments/assets/3d3c54e9-72ed-4bb8-9736-7b071a7e75da" />
+<img  width="640"  alt="изображение" src="https://github.com/user-attachments/assets/3d3c54e9-72ed-4bb8-9736-7b071a7e75da" />
+<img width="640"  alt="изображение" src="https://github.com/user-attachments/assets/41a572a3-d645-451d-8044-436da7339727" />
+
 
 
 
