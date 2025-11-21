@@ -10,6 +10,8 @@
 
 MQTT-NP is a cross-platform desktop MQTT client designed for developers and IoT enthusiasts. Built with modern web technologies and Rust, it provides a fast, secure, and user-friendly interface for monitoring and managing MQTT brokers.
 
+Try web version with synchronization https://mqtt-np-web.web.app/
+
 ## ✨ Features
 
 ### 🔌 Connection Management
